@@ -1,10 +1,11 @@
 # PRODIGY_DS_02
 ## Introduction
+This project's primary goal is to do exploratory data analysis on the Titanic dataset and derive significant insights from the findings.Here, we attempt to do the necessary preprocessing, such as managing missing values, identifying outliers, determining the correlation between variables, displaying the data, and forecasting the test set's survival.
 
-<h1>About the Dataset</h1>
-<p>The Titanic Dataset, particularly the training set (often referred to as "train.csv" in many tutorials), contains detailed information about a subset of the passengers aboard the Titanic. This dataset includes features that describe the passengers' demographics, socio-economic status, and other relevant information, as well as the outcome variable indicating whether the passenger survived or perished in the disaster.</p>
+## About the Dataset
+<p>The Titanic Dataset divided into <a href = "https://github.com/AdithiVS/PRODIGY_DS_02/blob/main/train.csv">`Train Set`</a> and <a href = "https://github.com/AdithiVS/PRODIGY_DS_02/blob/main/test.csv">`Test Set`</a>, contains detailed information about the passengers aboard the Titanic. This dataset includes features that describe the passengers demographics, socio-economic status, and other relevant information, as well as the outcome variable indicating whether the passenger survived or perished in the disaster.</p>
 
-<h2>Features of the dataset</h2>
+### Features of the dataset
 
 <p><strong>PassengerId:</strong>A unique identifier for each passenger.</p>
 <p><strong>Survived:</strong>  Binary variable indicating survival (0 = No, 1 = Yes).</p>
@@ -20,3 +21,10 @@
 <p><strong>Cabin:</strong> Cabin number. </p>
 <p><strong>Embarked:</strong>Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).</p>
 
+## Conclusion
+Important insights into the factors influencing survival rates after the catastrophic Titanic accident were obtained through the thorough data cleaning and exploratory data analysis performed on the Titanic dataset. This study improves our understanding of past events and serves as an example of how data science techniques may be applied to draw important conclusions from large, complicated datasets.Explored relationships between variables such as gender, passenger class, age, fare, and survival rates. 
+By using logistic regression analysis we predicted the survival of test set passengers.
+
+## Contact Information
+- <a href="https://www.linkedin.com/in/adithi-v-345604257/">Adithi Vellengara(LinkedIn)</a>
+- Email 📧: adithivs06@gmail.com
